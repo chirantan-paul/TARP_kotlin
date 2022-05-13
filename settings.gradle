@@ -1,0 +1,2 @@
+rootProject.name = "trial_tarp"
+include ':app'
